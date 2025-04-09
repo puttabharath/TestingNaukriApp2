@@ -13,3 +13,5 @@
 2025-04-09 10:40:56,950 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TestNaukriApp\NaukriProfileAutoUpdate\NaukriProfileUpdatesAutomation\src\test\resources
 2025-04-09 10:41:36,921 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TestNaukriApp\NaukriProfileAutoUpdate\NaukriProfileUpdatesAutomation\src\main\resources
 2025-04-09 10:41:36,925 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TestNaukriApp\NaukriProfileAutoUpdate\NaukriProfileUpdatesAutomation\src\test\resources
+2025-04-09 10:59:09,762 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TestNaukriApp\NaukriProfileAutoUpdate\NaukriProfileUpdatesAutomation\src\main\resources
+2025-04-09 10:59:09,795 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\TestNaukriApp\NaukriProfileAutoUpdate\NaukriProfileUpdatesAutomation\src\test\resources
